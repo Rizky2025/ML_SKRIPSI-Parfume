@@ -50,7 +50,7 @@ def recommend_from_input(user_input, top_n=10):
 
 # Urutkan dari skor tertinggi
     scores = sorted(enumerate(sim_final), key=lambda x: x[1], reverse=True)
-    scores = [(i, s) for i, s in scores if s > 0]
+    scores = [(i, s) for i, s in scores] # Jangan pakai 'if s > 0'
 
     result_data = []
     seen_names = set()
@@ -85,8 +85,8 @@ def recommend():
     top_n_request = data.get("top_n", 50)
     top_n = int(top_n_request)
     
-    # 2. BARU DIBATASI ANTARA 5 SAMPAI 100
-    top_n = max(5, min(top_n, 100))
+    # Biarkan mengambil sebanyak yang diminta Node.js
+    top_n = top_n
 
     if not user_input:
         return jsonify({"error": "Input tidak boleh kosong"}), 400
