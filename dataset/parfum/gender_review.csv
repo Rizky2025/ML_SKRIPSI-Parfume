@@ -1,0 +1,49 @@
+﻿id,nama_parfum,gender_lama,gender_baru,sinyal,confidence
+f6ebbbab-9a43-48ec-aeec-74bd390ade4f,Posh Men Perfume Spray 150ml,Wanita,Pria,nama mengandung kata maskulin,tinggi
+b77911b0-e290-40e9-8bad-675b73e61b45,Aqua Kiss Perfume 30ml,Pria,Wanita,nama mengandung 'aqua kiss' (daftar manual),tinggi
+f0f09ddc-3a78-4b4c-87cb-db643ced3d4b,Lamoza Aqua Blue Aqua Kiss Master Ovium,Pria,Wanita,nama mengandung 'aqua kiss' (daftar manual),tinggi
+169d43fe-7e7d-4f1d-bbe9-a41ea018a054,Livi Scarlett Whitening Perfume,Unisex,Wanita,nama mengandung 'scarlett' (daftar manual),tinggi
+e9ccf0af-6b23-4892-b11f-81296fb55b67,Nagita Slavina Perfume,Pria,Wanita,nama mengandung 'nagita slavina' (daftar manual),tinggi
+e96f64e9-858e-450a-930f-443165a19c92,Nagita Slavina EDP 35ml,Unisex,Wanita,nama mengandung 'nagita slavina' (daftar manual),tinggi
+33d04c51-7eef-401e-bf26-6b35a1f3bbc1,Nagita Slavina EDT Extrait,Pria,Wanita,nama mengandung 'nagita slavina' (daftar manual),tinggi
+99277d27-7c18-4dcc-81ed-3df3249ecab0,Nagita Slavina Fresh & Natural 30ml,Unisex,Wanita,nama mengandung 'nagita slavina' (daftar manual),tinggi
+f669d812-07b7-4de1-af2b-37a33123da25,Nagita Slavina Sakura Blossom 30ml,Unisex,Wanita,nama mengandung 'nagita slavina' (daftar manual),tinggi
+e5d4f16d-bbc6-4d37-acb4-8c93e0eae172,Posh Body Spray Women 150ml,Unisex,Wanita,nama mengandung kata feminin,tinggi
+ae2a1c7b-a921-4b64-8d64-60b8521cb837,Posh Women Perfumed Spray Cologne,Pria,Wanita,nama mengandung kata feminin,tinggi
+373d1931-21cf-45a1-975e-ff628d055442,Scarlett Dreamy / Sweet Memories / Euphoria / Velvet Rouge / Biru Samudra / Banana Fusion / Caramel Latte / Garden of Whisper / Jolly,Unisex,Wanita,nama mengandung 'scarlett' (daftar manual),tinggi
+12f46d86-5aa0-4967-a989-807b0ee7003b,Scarlett Eau De Parfum 30ml,Unisex,Wanita,nama mengandung 'scarlett' (daftar manual),tinggi
+0b337a1a-9e70-4829-80b0-7b7164ea772d,Scarlett Eau Parfum 30ml,Pria,Wanita,nama mengandung 'scarlett' (daftar manual),tinggi
+e64f3a14-9887-489c-a369-d8fe256f93fa,Scarlett Extrait De Parfum,Pria,Wanita,nama mengandung 'scarlett' (daftar manual),tinggi
+51847aa4-c484-4df3-9c91-910c31535cd1,Scarlett Extrait De Parfum 30ml,Unisex,Wanita,nama mengandung 'scarlett' (daftar manual),tinggi
+b81fe739-8d03-4d3d-8c16-e7a4a6463b4e,Scarlett Extrait De Perfume,Pria,Wanita,nama mengandung 'scarlett' (daftar manual),tinggi
+2a19d266-1979-403c-9cd3-f7a57ea43db5,Scarlett Inspired Extrait De Parfum 30ml,Unisex,Wanita,nama mengandung 'scarlett' (daftar manual),tinggi
+0c5fe837-4f31-4f7f-b077-a3cf5d960514,Scarlett Inspired Perfume 30ml,Pria,Wanita,nama mengandung 'scarlett' (daftar manual),tinggi
+ae7d4dba-8621-4013-981a-1b7bb8f39322,Scarlett Purple Kiss Perfume,Unisex,Wanita,nama mengandung 'scarlett' (daftar manual),tinggi
+3b37c79b-d53b-4338-b7af-188598a4f821,Scarlett Velvet Rouge 30ml,Pria,Wanita,nama mengandung 'scarlett' (daftar manual),tinggi
+674a8882-e191-439d-8503-c2e6aae2a52a,Scarlett Velvet Rouge Bundle,Unisex,Wanita,nama mengandung 'scarlett' (daftar manual),tinggi
+26179148-8b0a-4fd0-b591-b8723cd5f8f6,Scarlett Whitening,Pria,Wanita,nama mengandung 'scarlett' (daftar manual),tinggi
+0405a245-7a3a-461d-bcfb-9635fe0d6e98,Scarlett Whitening Eau De Parfum 30ml,Pria,Wanita,nama mengandung 'scarlett' (daftar manual),tinggi
+4c3dd7ca-4861-4582-a96f-5cb471180dcc,Scarlett Whitening Eau De Parfum 30ml,Pria,Wanita,nama mengandung 'scarlett' (daftar manual),tinggi
+8e9457eb-45e0-47f6-9b49-ba89cfda0a6e,Scarlett Whitening Extrait De Parfum Ocean Blue 30 ml,Unisex,Wanita,nama mengandung 'scarlett' (daftar manual),tinggi
+f6a01708-5cfe-4415-b1c4-ec8715a968d4,Scarlett Whitening Extrait De Parfume 30ml - Parfum Wangi Soft - Dreamy / Sweet Memories / Euphoria / Velvet Rouge / Biru Samudra / Banana Fusion / Caramel Latte / Garden of Whisper / Jolly / Wanita / Pria inspired tanpa dus,Pria,Wanita,nama mengandung 'scarlett' (daftar manual),tinggi
+ff89d331-46f0-4770-a81f-0740bae89c17,Scarletti Memories Dreamy 30ml,Unisex,Wanita,nama mengandung 'scarlett' (daftar manual),tinggi
+cf6b8e79-0338-4b78-9a6e-7b6835af8c0d,NO 1 Parfum Scarlett Inspired 30ml � Extrait de Parfum Soft Aroma,Unisex,Wanita,nama mengandung 'scarlett' (daftar manual),tinggi
+3861d0d9-aeeb-45ea-b67c-a50e90a13694,YSL Libre Women Perfume 90ml,Unisex,Wanita,nama mengandung kata feminin,tinggi
+ced5d5a1-76a8-47bc-8e29-5af25c6d572f,FRAGRANCE S,Wanita,Pria,deskripsi menyebut pria,sedang
+8accc598-c9b5-40d6-8d0a-3280aa74897c,Fresh & Natural Refresh Spray Cologne,Wanita,Pria,deskripsi menyebut pria,sedang
+9f9d7bc4-f51c-478c-b5df-8866e8ee120d,NEW ARRIVALS,Wanita,Pria,deskripsi menyebut pria,sedang
+0439be68-d265-46d0-8379-be453f824312,Men's and Women's Perfume 30ml,Pria,Unisex,nama menyebut pria & wanita,sedang
+f322d647-1264-4a72-bce9-b30548193415,PARFUM GARUDA MINYAK WANGI WANGI LEMBUT COCOK PRIA WANITA BODY WANGI SEPANJANG HARI BRASOV THAILAN KASTURI SOVENIR HADIAH OLEH OLEH,Pria,Unisex,nama menyebut pria & wanita,sedang
+a51caa00-1108-4190-bba8-0c4a7cf8fe49,Body Mist Body Spray 100ml,Pria,Wanita,deskripsi menyebut wanita,sedang
+d7982c88-245b-48d3-b593-5e709b29018e,Bubble Gum Perfume 30ml,Pria,Wanita,deskripsi menyebut wanita,sedang
+baf3e5c0-9eb8-4cb3-b3af-5fe230aed365,Bubblegum Vanilla Cake Royal Black Opium Bundle,Pria,Wanita,deskripsi menyebut wanita,sedang
+bc5dee32-42e8-4b21-8a83-d1a7408a6241,Camellia Eau De Parfum,Pria,Wanita,deskripsi menyebut wanita,sedang
+8a9ac745-46c3-4ce1-ba87-5a99995d76b4,HMNS O Hyper Bloom Extrait 100 ml,Pria,Wanita,deskripsi menyebut wanita,sedang
+5b187161-525d-470d-877f-911eee564bfa,HMNS ORGSM Eau De Parfum 100 ml,Pria,Wanita,deskripsi menyebut wanita,sedang
+e04669f9-14c7-4dca-a663-778da57d0570,LOVILLEA Happy Hype Chillin Sunday,Pria,Wanita,deskripsi menyebut wanita,sedang
+48a64689-440f-49e2-ac21-43eb6757e66e,Miniso Harmony Pure & Sweet,Unisex,Wanita,deskripsi menyebut wanita,sedang
+f13250f7-6eb5-405f-90b1-f81f4d3eced3,Mykonos - Affair Extrait de Parfum 100ml,Pria,Wanita,deskripsi menyebut wanita,sedang
+48d1a6c1-9566-4706-8e91-e2f72a246552,Mykonos - Aphrodite Extrait de Parfum 50ml & 100ml,Pria,Wanita,deskripsi menyebut wanita,sedang
+163239c7-0d4a-431e-ac62-a5094cb241c4,Taylor Swift Perfume,Pria,Wanita,deskripsi menyebut wanita,sedang
+f07209af-5e12-4668-9eca-1a5ddd6b1027,Vanilla Caramel Chocolate Vanilla Bundle,Pria,Wanita,deskripsi menyebut wanita,sedang
+37ce37fa-ab4c-4472-9624-6a2014fbd51c,Victoria Secret Scandalous Perfume,Pria,Wanita,deskripsi menyebut wanita,sedang

@@ -1,1 +1,14 @@
+# Rahasia / kredensial — JANGAN di-commit
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Arsip lokal
+_arsip/
+
+# File lama
 matriks_cbf.pkl
